@@ -9,17 +9,17 @@ Wavecon launched its 5G services in May, bringing both growth opportunities and 
 
 🏆 Key Business Insights & Learnings   
 📉 Revenue Performance:    
-	✔️ Overall revenue declined by 0.50% despite 5G launch.  
-	✔️ Revenue growth in Lucknow (+1.82%), Gurgaon (+1.51%), and Patna (+1.48%).   
-	✔️ Revenue decline in Delhi (-2.83%), Chennai (-2.59%), and Ahmedabad (-2.02%).  
-	✔️ Mumbai generated the highest revenue (₹4.9B), while Raipur had the lowest (₹0.32B).  
+		✔️ Overall revenue declined by 0.50% despite 5G launch.       
+		✔️ Revenue growth in Lucknow (+1.82%), Gurgaon (+1.51%), and Patna (+1.48%).         
+		✔️ Revenue decline in Delhi (-2.83%), Chennai (-2.59%), and Ahmedabad (-2.02%).      
+		✔️ Mumbai generated the highest revenue (₹4.9B), while Raipur had the lowest (₹0.32B).  
 📊 ARPU & User Trends:   
-	✔️ ARPU grew by 11.05%, highest in Raipur (+22.25%).  
-	✔️ Active users declined by 8.28%, sharpest drop in Ahmedabad (-18.93%).   
-	✔️ Unsubscribed users surged by 23.5%, with Lucknow seeing the highest increase (+77.91%).   
+		✔️ ARPU grew by 11.05%, highest in Raipur (+22.25%).  
+		✔️ Active users declined by 8.28%, sharpest drop in Ahmedabad (-18.93%).   
+		✔️ Unsubscribed users surged by 23.5%, with Lucknow seeing the highest increase (+77.91%).   
 📡 Market Share & Competitive Analysis   
-	✔️ Wavecon ranks 3rd post-5G, with market share dipping to 19%.   
-	✔️ Ranked 2nd in key cities like Ahmedabad, Kolkata, and Chennai in select months.   
+		✔️ Wavecon ranks 3rd post-5G, with market share dipping to 19%.   
+		✔️ Ranked 2nd in key cities like Ahmedabad, Kolkata, and Chennai in select months.   
 	
 📢 Key Findings & Strategic Recommendations    
 🚨 Key Challenges Identified:   
