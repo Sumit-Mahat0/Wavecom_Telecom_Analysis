@@ -3,7 +3,7 @@
 
 🚀 Excited to Share My Latest Power BI Project: "Wavecon 5G Telecom Analysis" 📊    
 Hi Everyone,   
-I'm thrilled to present my latest Virtual Internship Power BI Project at AtliQ Technologies, where I analyzed the impact of Wavecon Telecom’s 5G launch across 15 cities in India.   
+I'm thrilled to present my latest Virtual Internship Power BI Project at AtliQ Technologies, where I analyzed the impact of Wavecon Telecom’s 5G launch across 15 cities in India, a leading telecom provider in India.   
 
 🔎 Project Overview   
 Wavecon launched its 5G services in May, bringing both growth opportunities and challenges. This project provides a deep dive into revenue performance, user engagement, market share trends, and key strategic recommendations.   
@@ -36,6 +36,7 @@ Wavecon launched its 5G services in May, bringing both growth opportunities and 
 🔗 Key Learning:    
 This project enhanced my data storytelling, business intelligence, and strategic decision-making skills using Power BI to drive actionable insights.
 
-Live Dashboard: 
-Live Dashboard Novypro : 
-Presentation Video: 
+Live Dashboard:    ![Wave Telecom Analysis](https://app.powerbi.com/view?r=eyJrIjoiZmY3MjIxNWItODAwOS00MTI2LWFkM2UtZTQ5ZDcyMGQzZWY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)    
+Live Dashboard Novypro :    ![Wavecon Telecom Analysis](https://project.novypro.com/aTSQ7O)  
+Presentation Video:    ![Wavecon Telecom Analysis](https://www.youtube.com/embed/gQSHkx1IL04?si=VStJ2KU99Vz4AhnC)   
+
